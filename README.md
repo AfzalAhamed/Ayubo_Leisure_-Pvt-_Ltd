@@ -2,7 +2,7 @@
 ![alt text](https://github.com/AfzalAhamed/Ayubo_Leisure_-Pvt-_Ltd/blob/main/image.jpg?raw=true)
 ----------------------INTRODUCTION----------------------------------------------<br/>
 Ayubo_Leisure_(Pvt)_Ltd - C# Windows Form<br/>
-This Project Was Created When I Was Studying in My 2nd Year of Higher Diploma<br/>
+This Project Was Created When I Was Studying My 2nd Year of Higher Diploma<br/>
 !---Microsoft SQL File also includes--!<br/>
 ----------------------SETUP INSTRUCTIONS-----------------------------------------<br/>
 Step 1 --> Extract The Zip File<br/>
